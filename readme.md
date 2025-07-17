@@ -45,3 +45,5 @@ Consolidated zones increase `.kicad_pcb` file size significantly, so instead is 
 
 - After loading the PCB project: `Edit` → `Fill all zones`.
 - Before saving the PCB project: `Edit` → `Unfill all zones`.
+
+- https://inputlabs.io/alpakka/components
